@@ -47,6 +47,7 @@ p {
 	padding: 0 0 15px 0;
 	border: none;
 	border-radius: 0;
+	background-color: #1f1b20;
 }
 .thumbnail img {
 	width: 100%;
@@ -55,13 +56,13 @@ p {
 }
 .carousel-control.right, .carousel-control.left {
 	background-image: none;
-	color: #1f1b20;
+	color: #fff;
 }
 .carousel-indicators li {
-	border-color: #1f1b20;
+	border-color: #fff;
 }
 .carousel-indicators li.active {
-	background-color: #1f1b20;
+	background-color: #fff;
 }
 .item h4 {
 	font-size: 19px;
